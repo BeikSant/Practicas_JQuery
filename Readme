@@ -1,0 +1,11 @@
+La carpeta se la debe colocar el servidor web
+Las bases de datos entran dentro de cada carpeta
+
+para abrir el crud en el navegador http://localhost/Practicas_JQuery/crud1_jquery/
+exporta la base de datos con el mismo nombre, debe cambiar el usuario y 
+passwod de la configuracion del sql dentro del archivo database.php
+
+
+para abrir el inserta en el navegador http://localhost/Practicas_JQuery/inserta_jquery/
+exporta la base de datos con el mismo nombre, debe cambiar el usuario y 
+passwod de la configuracion del sql dentro del archivo insertar.php
